@@ -1,0 +1,1 @@
+This is liquid-ministry's first git project!
